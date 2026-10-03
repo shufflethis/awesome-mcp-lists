@@ -218,6 +218,7 @@ MCP servers for accessing external services and APIs.
 | 32 | **Unfetch** | Hosted Google Ads MCP server for campaign, spend, conversion, and search-term reporting, with Google Analytics, Google Search Console, keyword research, and web research; OAuth and read-only account access. [Setup](https://unfetch.com/plugin) | [GitHub](https://github.com/unfetch-com/agent-plugin) |
 | 33 | **GrowSurf** | Build and manage GrowSurf referral and affiliate programs through AI assistants. Hosted OAuth or local stdio; includes a Dockerfile. | [GitHub](https://github.com/growsurf/growsurf-mcp) |
 | 34 | **Influence MCP** | Hosted Streamable HTTP MCP for drafting, reviewing, scheduling and publishing social posts, and checking post status; OAuth or scoped bearer key; Influence account required | [GitHub](https://github.com/influence-so/influence-mcp) |
+| 35 | **Vibe Manufacturing** | Find contract manufacturers and get parts made: match a part spec to suppliers by process, material, quantity and CAD format, estimate landed cost, and send a quote request. Hosted Streamable HTTP without an account or key | [GitHub](https://github.com/shufflethis/vibe-manufacturing-mcp) |
 
 ### AI & Machine Learning
 
